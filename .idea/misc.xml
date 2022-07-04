@@ -7,10 +7,13 @@
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/drawable/white_grey_border_bottom.xml" value="0.1275" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/drawable/white_grey_border_top.xml" value="0.1" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/fragment_camera.xml" value="0.1" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/fragment_home.xml" value="0.16354166666666667" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/layout_bottom_bar.xml" value="0.33" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/layout_center_view.xml" value="0.1" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/layout_center_viewpager.xml" value="0.1609375" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/layout_top_tabs.xml" value="0.25" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/messages.xml" value="0.16354166666666667" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.20208333333333334" />
       </map>
     </option>
