@@ -3,18 +3,36 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/drawable-anydpi/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/drawable-hdpi/black_border.xml" value="0.1175" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/drawable/grey_border_bottom.xml" value="0.1175" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2165" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/drawable/snippet_center_editprofile.xml" value="0.1025" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/drawable/white_grey_border_bottom.xml" value="0.1275" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/drawable/white_grey_border_top.xml" value="0.1" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/activity_account_setting.xml" value="0.1" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/activity_edit_profile.xml" value="0.3009833262077811" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/activity_profile.xml" value="0.2" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/fragment_camera.xml" value="0.1" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/fragment_editprofile.xml" value="0.2" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/fragment_home.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/fragment_signout.xml" value="0.14279606669516887" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/layout_bottom_bar.xml" value="0.33" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/layout_center_accountsetting.xml" value="0.22" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/layout_center_profile.xml" value="0.25" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/layout_center_view.xml" value="0.1" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/layout_center_viewpager.xml" value="0.1609375" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/layout_grid_imageview.xml" value="0.1359927470534905" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/layout_top_tabs.xml" value="0.25" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/messages.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/snippet_center_editprofile.xml" value="0.25" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/snippet_top_accountsettingtoolbar.xml" value="0.22" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/snippet_top_editprofiletoolbar.xml" value="0.1" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/snippet_top_profile.xml" value="0.33" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/layout/snippet_top_profile_bar.xml" value="0.18" />
         <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lundy/AndroidStudioProjects/share/app/src/main/res/menu/profile_menu.xml" value="0.1" />
       </map>
     </option>
   </component>

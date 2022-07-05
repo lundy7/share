@@ -14,9 +14,9 @@ import com.lundy.share.R;
 
 public class BottomNavigationViewHelper {
     public static void enableNavigation(final Context context, BottomNavigationView view){
-        view.setOnNavigationItemReselectedListener(new BottomNavigationView.OnNavigationItemReselectedListener() {
+        view.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
-            public void onNavigationItemReselected(@NonNull MenuItem item) {
+            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch (item.getItemId()){
                     case R.id.ic_home:
                         Intent intent1 = new Intent(context, MainActivity.class);
@@ -31,7 +31,10 @@ public class BottomNavigationViewHelper {
                         context.startActivity(intent3);
                         break;
                 }
+                return false;
             }
         });
     }
 }
+
+

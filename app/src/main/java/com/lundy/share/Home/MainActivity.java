@@ -14,6 +14,8 @@ import android.view.View;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.lundy.share.R;
 import com.lundy.share.util.BottomNavigationViewHelper;
+import com.lundy.share.util.UniversalImageLoader;
+import com.nostra13.universalimageloader.core.ImageLoader;
 
 public class MainActivity extends AppCompatActivity {
     private static final int ACTIVITY_NUM = 0;
@@ -22,8 +24,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d(TAG, "onCreate: starting");
-
+        initImageLoader();
         setupBottomNavigationView();
+
+
+    }
+
+    private void initImageLoader(){
+        UniversalImageLoader universalImageLoader = new UniversalImageLoader(MainActivity.this);
+        ImageLoader.getInstance().init(universalImageLoader.getConfig());
     }
 
     private void setupBottomNavigationView(){
