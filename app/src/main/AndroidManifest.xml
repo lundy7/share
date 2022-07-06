@@ -16,9 +16,6 @@
         android:theme="@style/Theme.Share"
         tools:targetApi="31">
         <activity
-            android:name=".EditProfileActivity"
-            android:exported="false" />
-        <activity
             android:name=".Home.MainActivity"
             android:exported="true">
             <intent-filter>
@@ -27,7 +24,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Profile.ProfileActivity" />
+        <activity android:name=".Profile.ProfileActivity"></activity>
         <activity android:name=".Add.AddActivity" />
     </application>
 

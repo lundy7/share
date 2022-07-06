@@ -51,6 +51,11 @@ public class ProfileActivity extends AppCompatActivity {
 
     private void tempGridSetup(){
         ArrayList<String> imgURLs = new ArrayList<>();
+        imgURLs.add("https://i.pinimg.com/600x315/54/10/be/5410be5967f5038f1821c77831f179e1.jpg");
+        imgURLs.add("https://i.ytimg.com/vi/-ZjZ4tb3tsM/maxresdefault.jpg");
+        imgURLs.add("https://i.ytimg.com/vi/EBYsx1QWF9A/maxresdefault.jpg");
+        imgURLs.add("https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f6cdba8759f74df84a029cf387c6590635aa8d7015785f52cf3faeb1aeb1a057._SX1080_.png");
+        imgURLs.add("https://variety.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-05-at-12.09.48-AM.png?w=681&h=383&crop=1");
         imgURLs.add("https://pbs.twimg.com/profile_images/616076655547682816/6gMRtQyY.jpg");
         imgURLs.add("https://i.redd.it/9bf67ygj710z.jpg");
         imgURLs.add("https://c1.staticflickr.com/5/4276/34102458063_7be616b993_o.jpg");
@@ -63,6 +68,7 @@ public class ProfileActivity extends AppCompatActivity {
         imgURLs.add("http://i.imgur.com/j4AfH6P.jpg");
         imgURLs.add("https://i.redd.it/89cjkojkl10z.jpg");
         imgURLs.add("https://i.redd.it/aw7pv8jq4zzy.jpg");
+        imgURLs.add("https://pics.filmaffinity.com/Mr_Robot_TV_Series-978107021-large.jpg");
 
         setupImageGrid(imgURLs);
     }
